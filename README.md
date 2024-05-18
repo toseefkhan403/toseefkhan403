@@ -5,16 +5,15 @@
 [![Leetcode Badge](https://img.shields.io/badge/-Leetcode-282828?style=flat-square&logo=Leetcode&logoColor=yellow)](https://leetcode.com/toseefkhan403/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/toseeficator/)
 
-I am a Mobile Developer specializing in Flutter currently working at [Zeeve](https://www.zeeve.io/) with a mission to innovate Web3's blockchain infrastructure solutions.
-
-Passionate about problem-solving and mobile development, I'm skilled in Dart, Flutter, Firebase, Android, React, Nextjs, and more. I've led various app projects from scratch, aiming to make a positive impact through technology.
+I’m a mobile developer specializing in **_Flutter_**. [Winner](https://devpost.com/software/ecoshift-chronicles) of the [Global Gamers Challenge](https://flutter.dev/global-gamers#winners) by Flutter among 3500+ participants, for which the prize includes a fully sponsored trip to the **Google NYC office** to meet the official **Flutter team**.
+I also have experience with **_Firebase_** which I have used extensively to build functional mobile apps.
 
 Feel free to connect with me for anything tech-related or just to say hi! 😄
 
 ### Professional Stuff:
 
 - 🔭 &nbsp; I’m currently working with Dart, Flutter, TS, Nextjs, etc.
-- 🌱 &nbsp; I’m currently exploring web3, game dev, etc.
+- 🌱 &nbsp; I’m currently exploring AI, Web3, game dev, etc.
 - 💬 &nbsp; Ask me anything [here](https://github.com/toseefkhan403/toseefkhan403/issues/1)! I am happy to help.
 - 😄 &nbsp; Pronouns: he/him
 - 📫 &nbsp; Reach me out at toseefkhan403@gmail.com.
