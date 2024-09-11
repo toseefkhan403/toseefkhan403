@@ -40,9 +40,10 @@ Feel free to connect with me for anything tech-related or just to say hi! 😄
 
 ### Featured Projects:
 
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=toseefkhan403&repo=toseefkhan403.github.io)](https://github.com/toseefkhan403/toseefkhan403.github.io)
+[![GreenLoop](https://github-readme-stats.vercel.app/api/pin/?username=toseefkhan403&repo=ecostep)](https://github.com/toseefkhan403/ecostep)
 [![EcoConscience](https://github-readme-stats.vercel.app/api/pin/?username=toseefkhan403&repo=EcoConscience)](https://github.com/toseefkhan403/EcoConscience)
 [![ParallaxCards](https://github-readme-stats.vercel.app/api/pin/?username=toseefkhan403&repo=ParallaxCards)](https://github.com/toseefkhan403/ParallaxCards)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=toseefkhan403&repo=toseefkhan403.github.io)](https://github.com/toseefkhan403/toseefkhan403.github.io)
 
 #
 
