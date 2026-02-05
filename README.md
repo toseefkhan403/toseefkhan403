@@ -5,9 +5,7 @@
 [![Leetcode Badge](https://img.shields.io/badge/-Leetcode-282828?style=flat-square&logo=Leetcode&logoColor=yellow)](https://leetcode.com/toseefkhan403/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/toseeficator/)
 
-I’m a mobile developer specializing in **_Flutter_**. [Winner](https://devpost.com/software/ecoshift-chronicles) of the [Global Gamers Challenge](https://flutter.dev/global-gamers#winners) by Flutter among 3500+ participants, for which the prize includes a fully sponsored trip to the **Google NYC office** to meet the official **Flutter team**.
-I also have experience with **_Firebase_** which I have used extensively to build functional mobile apps.
-
+I’m a mobile dev who loves to code in **_Flutter_** and **_Dart_**
 Feel free to connect with me for anything tech-related or just to say hi! 😄
 
 ### Professional Stuff:
@@ -25,6 +23,10 @@ Feel free to connect with me for anything tech-related or just to say hi! 😄
 - 📰 &nbsp; Watching tech videos whenever possible.
 - 🍕 &nbsp; Meetups & Hackathons.
 - 💪 &nbsp; Hitting the gym whenever I get the time.
+
+### Achievements:
+
+- [Winner](https://devpost.com/software/ecoshift-chronicles) of the [Global Gamers Challenge](https://flutter.dev/global-gamers#winners) by Flutter, for which the prize includes a fully sponsored trip to the **Google NYC office** to meet the official **Flutter team**.
 
 ### Languages & Tools:
 
